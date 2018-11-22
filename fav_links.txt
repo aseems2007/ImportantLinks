@@ -56,4 +56,10 @@ https://www.theatlantic.com/entertainment/archive/2018/01/when-pop-culture-sells
 
 https://www.topcoder.com/community/competitive-programming/tutorials/binary-search
 
+https://goenning.net/2016/04/14/stop-reading-json-files-with-require/
+
+https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRKnd7gMClSINVRDF6tHJwXiVoz0NnJ-V9JamNaUvDEGou/pub
+
+https://www.nirandfar.com/2017/10/confirmation-bias-terrible-life-choices.html
+
 
