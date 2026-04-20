@@ -12,3 +12,4 @@ https://news.ycombinator.com/
 Redis
 https://levelup.gitconnected.com/4-reasons-why-single-threaded-redis-is-so-fast-414e0106f921
 
+https://www.linkedin.com/pulse/my-ideal-subjective-library-st%25C3%25A9phane-dalbera-ckvrf/
